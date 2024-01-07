@@ -1,4 +1,4 @@
-# Cifar neurális háló - Kép felismerés
+# Neurális háló feltanítása - Kép felismerés - Cifar10
 
 <img src="https://raw.githubusercontent.com/itbetyar/cifar_neuralis_halo/main/itbetyar-cifar10-minta.webp" alt="IT Betyár Cifar minta" width="400">
 
@@ -7,3 +7,6 @@
 - Ebben a projektben egy gépi tanulási mintát mutatunk
 - Egy képállomány alapján feltanítunk egy Neurális hálót képfelismerésre
 - 10 kategóriában fog tudni felismerni tárgyakat, élőlényeket
+
+### Google colab link ha tesztelni szeretnél
+<a src="https://colab.research.google.com/drive/1I24CSRAFo1Mu0hY7lfc7vRA0CljcJVvr?usp=sharing" alt="IT Betyár Cifar minta">Link<a>
