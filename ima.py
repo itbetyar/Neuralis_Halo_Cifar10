@@ -1,2 +1,0 @@
-# komment
-import math
