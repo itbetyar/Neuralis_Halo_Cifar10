@@ -9,4 +9,4 @@
 - 10 kategóriában fog tudni felismerni tárgyakat, élőlényeket
 
 ### Google colab link ha tesztelni szeretnél
-<a src="https://colab.research.google.com/drive/1I24CSRAFo1Mu0hY7lfc7vRA0CljcJVvr?usp=sharing" alt="IT Betyár Cifar minta">Link<a>
+<a href="https://colab.research.google.com/drive/1I24CSRAFo1Mu0hY7lfc7vRA0CljcJVvr?usp=sharing" target="_blank">Colab Link</a>
